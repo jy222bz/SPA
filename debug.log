@@ -1,0 +1,5 @@
+[1016/174140.673:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
+[1017/132501.153:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
+[1022/014608.056:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
+[1023/115835.948:ERROR:process_reader_win.cc(127)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs. (0xc0000022)
+[1023/115835.950:ERROR:exception_snapshot_win.cc(100)] thread ID 26712 not found in process
